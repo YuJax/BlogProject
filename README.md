@@ -57,4 +57,8 @@ mvn spring-boot:run
 
 ### Video
 
-[<img src="./Images/localhost_4000_admin-one-vue-tailwind_%20(4).png" width="50%">](<[./Images/Blog.mp4](https://github.com/YuJax/BlogProject/blob/master/Images/Blog.mp4)> "Blog")
+
+
+https://user-images.githubusercontent.com/103056163/209279119-d1bd4c91-e9af-4e45-ad79-8c95ffec3a2e.mp4
+
+
