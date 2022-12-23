@@ -54,3 +54,7 @@ mvn spring-boot:run
 !["編輯貼文成功"](<./Images/localhost_4000_admin-one-vue-tailwind_%20(14).png>)
 !["刪除貼文"](<./Images/localhost_4000_admin-one-vue-tailwind_%20(15).png>)
 !["刪除貼文成功"](<./Images/localhost_4000_admin-one-vue-tailwind_%20(16).png>)
+
+### Video
+
+[![Watch the video](https://img.youtube.com/vi/1Q8Q2Z4YQqM/maxresdefault.jpg)](./Images/Blog.mp4)
