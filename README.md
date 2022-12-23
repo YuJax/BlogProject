@@ -3,12 +3,22 @@
 ## Front End
 
 - Vue 3
+- Pinia
+- Vue Router
+- Vue Toastification
+- Axios
+- Tailwind CSS
 - TypeScript
 
 ## Back End
 
 - Spring MVC
+- JWT Authentication
+- Security-Crypto
 - MySQL
+- JPA
+
+利用 Spring MVC 架構，實作 JWT 認證，並使用 Security-Crypto 加密密碼，並使用 MySQL 資料庫，並使用 JPA 進行資料庫操作，並使用 Vue 3 進行前端開發，並使用 Tailwind CSS 進行前端美化。
 
 ## How to run
 
